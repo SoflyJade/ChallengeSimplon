@@ -1,0 +1,215 @@
+html{
+  background-image: url(../images/payments-banner-graphic.png);
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  /*width: 100%;*/
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+/*Navigation*/
+/*size picture top left*/
+#b{
+  width: 50px;
+}
+
+a, p{
+  color: white;
+}
+
+a{
+  font-size: 2em;
+  padding-bottom: -15px;
+}
+
+#navleft{
+  display: inline-block;
+  float: left;
+  width: 50%;
+}
+
+
+#navright{
+  display: block;
+  float: right;
+  width: 50%;
+}
+
+.right{
+  display: inline-block;
+  float: right;
+  margin-right: 3%;
+}
+nav{
+  display: block;
+}
+
+/*Corp*/
+
+#middle{
+  padding: 150px 0;
+  display: block;
+  text-align: center;
+}
+
+#big{
+  font-size: 2.75em;
+  margin-bottom: -2%;
+}
+
+#mini{
+  font-size: 1.5em;
+}
+
+#button{
+  font-size: 1.05em;
+  color: #98ABDE;
+  background-color: white;
+  margin : 0 30% 0 30%;
+  padding: 1% 0 1% 0;
+  border-radius: 5px;
+
+}
+
+/*Page 2*/
+
+#the1in3{
+border-color: black;
+text-align: center;
+padding-top: 5%;
+}
+
+.title{
+  color: #7E8499;
+  font-size: 1.5em;
+  font-family: sans-serif;
+}
+
+.legend{
+  color: #7E8499;
+  font-size: 0.75em;
+  font-family: sans-serif;
+  /*padding-top: -15%;*/
+}
+
+#one, #two, #three{
+  display: inline-block;
+  text-align: center;
+  margin: 5%;
+}
+
+#one img, #two img, #three img{
+  width: 33%;
+  margin-top: 25%;
+  padding: 0 20% 0 20%;
+}
+
+#two{
+  border-right: 1px solid #DFDFDF;
+  border-left: 1px solid #DFDFDF;
+  margin-right: 5%;
+  padding-left: 5%;
+  margin-left: 5%;
+  padding-right: 5%;
+}
+/*page 2 part 2*/
+
+#page2part2{
+  width: 100%;
+  border-top: 1px solid #DFDFDF;
+  background-color: #F6F9FB;
+  text-align: center;
+  padding: 2.5% 0 2.5% 0;
+}
+
+#page2part2 p{
+  color: #7E8499;
+}
+
+#invoice{
+  margin-top: 2%;
+  width: 100%;
+}
+
+#dollar, #pay{
+  display: inline-block;
+}
+
+
+#dollar{
+  margin: 0 2% 0 0;
+}
+
+#dollar p{
+  color: #8282BF;
+  font-size: 2em;
+  padding-bottom: 2%;
+  font-weight: bold;
+}
+
+#pay p{
+  color: #4C535C;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#pay span {
+  font-size: 0.75em;
+  font-weight: normal;
+  opacity: 0.55;
+}
+
+/*bandeau*/
+
+#bandeau{
+  background-color: #4C535C;
+  text-align: center;
+  padding: 0.75% 0 0.75% 0;
+  font-family: sans-serif;
+}
+
+/*page 3*/
+table{
+  width: 100%;
+}
+
+td{
+  width: 50%;
+  height: 400px;
+  /*border: 1px solid rgba(76,83,92,0.25);*/
+  text-align: center;
+}
+
+.cyan{
+background-color: #7CD5EF;
+margin: 1%;
+}
+
+.texte span{
+  font-weight: bolder;
+  font-size: 2em;
+  opacity: 1;
+  padding-bottom: 3%;
+  font-family: sans-serif;
+}
+
+
+.texte p{
+  color: #4C535C;
+  padding: 15%;
+  text-align: left;
+  font-size: 1.5em;
+  opacity: 0.55;
+  font-family: sans-serif;
+
+}
+
+#marin{
+  background-color: #8080BE;
+  margin: 1%;
+}

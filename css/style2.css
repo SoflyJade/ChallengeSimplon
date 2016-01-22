@@ -1,0 +1,44 @@
+html{
+  background-image: url(../images/payments-banner-graphic.png);
+  background-repeat: no-repeat;
+}
+
+/*size picture top left*/
+#b{
+  width: 50px;
+  /*display: inline-block;*/
+}
+p{
+  color: white;
+}
+#left{
+  display: inline-block;
+  float: left;
+  width: 50%;
+  /*vertical-align: middle;*/
+}
+
+
+
+#bonsai{
+  /*font-family: ;*/
+  /*color: white;*/
+  display: inline-block;
+  font-size: 2em;
+  padding-bottom: 15px;
+  /*vertical-align: middle;*/
+  /*float: left;*/
+
+}
+
+#right{
+  display: block;
+  float: right;
+  width: 50%;
+}
+
+.right{
+  display: inline-block;
+  float: right;
+  margin-right: 3%;
+}
