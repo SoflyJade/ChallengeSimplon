@@ -213,3 +213,39 @@ margin: 1%;
   background-color: #8080BE;
   margin: 1%;
 }
+
+#page5{
+  padding: 5.5% 0 5.5% 0;
+  text-align: center;
+  border-top: 1px solid #DFDFDF;
+}
+
+#page5 p{
+  color: rgb(77,77,77);
+  font-size: 1.5em;
+  font-family: sans-serif;
+  padding: 1%;
+}
+
+#buttonp5{
+  background-color: rgb(0,174,134);
+  color: white;
+  font-size: 1.05em;
+  margin : 0 30% 0 30%;
+  padding: 1% 0 1% 0;
+  border-radius: 5px;
+}
+
+#lignef{
+  background-color: rgb(36,38,41);
+}
+
+#onef, #twof, #threef{
+  text-align: center;
+  display: inline-block;
+  width: 33%;
+}
+
+#onef p, #twof p, #threef p{
+font-size: 0.75em;
+}
